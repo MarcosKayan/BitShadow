@@ -28,7 +28,7 @@ A imagem gerada conterá os dados criptografados e autenticados, embutidos nos b
 2. **Digite a senha utilizada na hora da inserção.**
 3. Clique em **“Desencriptar”**.
 
-O conteúdo será verificado, descriptografado e salvo automaticamente como `TextoReveladoBS.txt` no diretório atual.
+O conteúdo será verificado, descriptografado e salvo na pasta que o usuário escolher, com o nome que escolher para o arquivo.txt.
 
 ## 🔎 Verificação Rápida
 
