@@ -1,0 +1,17 @@
+BitShadow – Termos de Uso e Licença
+
+Este software é fornecido gratuitamente para uso pessoal e educacional. Você pode instalar, executar e compartilhar o programa livremente, desde que:
+
+Não seja vendido ou distribuído com fins comerciais sem autorização prévia
+
+O conteúdo e estrutura do programa não sejam modificados ou utilizados para práticas ilegais ou prejudiciais
+
+Este arquivo License.txt permaneça incluído em qualquer distribuição do programa
+
+O autor do BitShadow não se responsabiliza por perdas, danos ou mau uso do software. O uso é por sua conta e risco.
+
+Todos os direitos sobre o nome BitShadow, seu código-fonte e ícones pertencem ao criador original. Caso deseje colaborar, sugerir melhorias ou solicitar usos comerciais, entre em contato com o desenvolvedor.
+
+Obrigado por utilizar BitShadow!
+
+Ass. Marcos Kayan Niquelatte
